@@ -1,0 +1,4 @@
+nature
+people
+animals
+peopleandnature
