@@ -4,8 +4,8 @@
 
 эта команда классифицирует изображение по этим 4-ем классам :
 
-nature
-people
-peopleandnature
-animals
+-nature
+-people
+-peopleandnature
+-animals
 -------------------
